@@ -12,7 +12,7 @@ The decision boundary is linear, thus the name Linear Discriminant Analysis.
 
 ![decision boundary plot](lda_toy.jpg)
 
-### Samples generated:
+### Samples generated from MNIST dataset:
 
 The samples generated contain many noise because LDA assume same covariance for every class. Thus the estimated covariance cannnot exactly represent the covariance for each class. Looking in the image cloaser, we still can see outline of digits in some images. 
 
