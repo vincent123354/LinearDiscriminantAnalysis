@@ -9,6 +9,7 @@ Implementation of Linear Discriminant Analysis.
 ### Decision boundary of toy dataset
 
 The decision boundary is linear, thus the name Linear Discriminant Analysis.
+
 ![decision boundary plot](lda_toy.jpg)
 
 ### Samples generated:
