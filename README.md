@@ -19,4 +19,4 @@ The samples generated contain many noise because LDA assume same covariance for 
 ![Samples generated](samples.jpg)
 
 ### Todo:
-1. Add formula used in readme.md
+1. Add formula used in implementation
